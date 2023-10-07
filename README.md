@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics with Power Bi
 - 💞️ I’m looking to collaborate on Data Science related projects
-- 📫 How to reach me prudhviVij@gmail.com
+- 📫 How to reach me vijayaraoprudhvi@gmail.com
 
 <!---
 PrudhviVIJ/PrudhviVIJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
